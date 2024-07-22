@@ -1,0 +1,8 @@
+g_one = input ('Что выбирает игрок1: ')
+g_two = input ('Что выбирает игрок2: ')
+
+1 = 'kamen'
+2 = 'nojnicy'
+3 = 'bumaga'
+
+<div class="ace_content" style="margin-top: 0px; width: 788px; height: 360px; margin-left: -130px;"><div class="ace_layer ace_print-margin-layer"><div class="ace_print-margin" style="left: 721.333px; visibility: hidden;"></div></div><div class="ace_layer ace_marker-layer"><div class="ace_selection ace_start ace_br15" style="height:18px;width:780.0999645996093px;top:54px;left:4px;"></div></div><div class="ace_layer ace_text-layer" style="padding: 0px 4px;"><div class="ace_line" style="height:18px"><span class="ace_identifier">g_one</span> <span class="ace_keyword ace_operator">=</span> <span class="ace_support ace_function">int</span><span class="ace_paren ace_lparen">(</span><span class="ace_support ace_function">input</span> <span class="ace_paren ace_lparen">(</span><span class="ace_string">'Что выбирает игрок1: '</span><span class="ace_paren ace_rparen">))</span></div><div class="ace_line" style="height:18px"><span class="ace_identifier">g_two</span> <span class="ace_keyword ace_operator">=</span> <span class="ace_support ace_function">int</span><span class="ace_paren ace_lparen">(</span><span class="ace_support ace_function">input</span> <span class="ace_paren ace_lparen">(</span><span class="ace_string">'Что выбирает игрок2: '</span><span class="ace_paren ace_rparen">))</span></div><div class="ace_line" style="height:18px"></div><div class="ace_line" style="height:18px"><span class="ace_keyword">if</span> <span class="ace_identifier">g_o
